@@ -1,0 +1,17 @@
+{
+  "name": "typesp",
+  "version": "1.0.0",
+  "description": "A TypeScript project setup.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/product.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "typescript",
+    "starter"
+  ],
+  "author": "David",
+  "license": "ISC"
+}
